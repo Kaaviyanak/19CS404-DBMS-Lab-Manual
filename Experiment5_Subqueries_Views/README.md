@@ -1,6 +1,6 @@
 # Experiment 5: Subqueries and Views
-## Name:Roshini S
-## Reg.no:212223230174
+## Name:KAAVIYAN.K
+## Reg.no:212224240066
 ## AIM
 To study and implement subqueries and views.
 
