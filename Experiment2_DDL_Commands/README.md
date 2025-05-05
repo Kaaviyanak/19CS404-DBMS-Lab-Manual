@@ -1,6 +1,6 @@
 # Experiment 2: DDL Commands
-## Name:Roshini S 
-## Reg.no:212223230174
+## Name:Kaaviyan.k
+## Reg.no:212224240066
 ## AIM
 To study and implement DDL commands and different types of constraints.
 
