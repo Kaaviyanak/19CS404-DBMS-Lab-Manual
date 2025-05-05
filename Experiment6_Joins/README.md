@@ -1,6 +1,6 @@
 # Experiment 6: Joins
-## Name:Roshini S
-## Reg.no:212223230174
+## Name:KAAVIYAN.K
+## Reg.no:212224240066
 ## AIM
 To study and implement different types of joins.
 
